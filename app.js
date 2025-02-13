@@ -48,7 +48,7 @@ function sortearAmigo() {
         alert('Todos os nomes ja foram sorteados');
         nomesJaSorteados = [];
         document.getElementById('resultado').textContent = '';
-        alert('Para reiniciar o jogo do zero, atualize a pagina. Senão, pode adicionar mais nomes ou continuar com a lista original.');
+        alert('Para reiniciar o jogo do zero, atualize a pagina, senão, pode adicionar mais nomes ou continuar com a lista original.');
         return;
     }
     // Verifica se o nome pode ser sorteado.

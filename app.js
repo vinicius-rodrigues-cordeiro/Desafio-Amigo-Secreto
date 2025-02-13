@@ -37,7 +37,7 @@ function limparCampo() {
 }
 
 function sortearAmigo() {
-    // Sortear o amigo secreto, verificando o se há nomes suficiente para se jogar
+    // Sortear o amigo secreto, verificando se há nomes suficiente para se jogar
     let tamanhoDaLista = nomesSorteados.length;
     if (tamanhoDaLista < 2) {
         alert('Adicione 2 ou mais nomes para poder realizar o jogo');

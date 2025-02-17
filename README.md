@@ -15,3 +15,4 @@
 - `Adicionar amigo`
 - `Exibir nomes sorteados`
 - `Limpar campo`
+- `Sortear amigo`

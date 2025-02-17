@@ -1,4 +1,4 @@
-//O principal objetivo deste desafio é criar um jogo do absoluto, com auxilio dos conteúdos estudados até o momento no curso de iniciante em programação.
+//O principal objetivo deste desafio é criar um jogo do absoluto zero, com auxilio dos conteúdos estudados até o momento no curso de iniciante em programação.
 let nomesSorteados = []; //Lista que recebera os nomes do sorteio
 let nomesJaSorteados = []; //Lista que detera nomes ja sorteados
 function adicionarAmigo() {
